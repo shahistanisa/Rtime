@@ -8,5 +8,6 @@ As Renata says:
 
 > Life is a school
 > and I am the teacher.
+:sunglasses:
 
 09/07/2020: The use of `substr()` 
